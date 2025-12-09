@@ -1,6 +1,6 @@
 <div align="center">
 
-# A software engineer in the making
+# A software test engineer in the making
 
 ### Trying all sorts of fun stuff
 
