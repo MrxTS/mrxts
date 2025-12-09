@@ -7,4 +7,4 @@
 - 💬 Ask me about anything ¯\\_(ツ)_/¯
 - 📫 How to reach me: ¯\\_(ツ)_/¯
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MrxTS=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MrxTS=anuraghazra&hide=contribs,prs)
