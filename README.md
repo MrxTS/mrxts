@@ -11,6 +11,8 @@ Studied economics, now im stuck in the tech industry. Send HALP!!!
 * 🧠  I'm currently learning new tech stuff all day every day.
 * 💬  Ask me about I don't know but I think I'm pretty good with my hands.
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mrxts/Mrxts/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mrxts/Mrxts/output/pacman-contribution-graph.svg">
