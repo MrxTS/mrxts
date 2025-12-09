@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-[Demo](https://demo-link.com) • [Documentation](https://docs-link.com) • [Report Bug](https://github.com/username/repo/issues) • [Request Feature](https://github.com/username/repo/issues)
+• [Report Bug](https://github.com/username/repo/issues) • [Request Feature](https://github.com/username/repo/issues)
 
 </div>
 
@@ -28,9 +28,6 @@
   <img src="docs/demo.gif" alt="Demo" width="80%">
 </div>
 -->
-
----
-
 <!-- ## ✨ Features
 
 - 🎯 **Feature 1** - Beschreibung des ersten coolen Features
@@ -48,7 +45,8 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
