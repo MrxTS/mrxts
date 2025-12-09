@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 A software engineer in the making
+# A software engineer in the making
 
 ### Trying all sorts of fun stuff
 
@@ -39,7 +39,7 @@
 
 ---
 -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -66,9 +66,7 @@
 ---
 -->
 <div align="center">
-
-### ⭐ Wenn dir dieses Projekt gefällt, gib ihm einen Star!
-
+  
 Made with ❤️ by Stefan Nguyen
 
 </div>
